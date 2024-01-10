@@ -1,0 +1,33 @@
+Authentication: 0
+Import Person: 0
+Update Person Info V2: 1
+Add Person's Faces: 0
+Delete Person: 0
+Delete Person's Face: 0
+Data Purge for History Record: 0
+Query Person: 0
+Image Quality Check: 0
+List Workstations and Camera: 0
+Query History Record: 0
+Central Health Check: 0
+Workstation Health Check: 0
+Camera Health Check: 0
+Search Faces: 0
+Activate Camera: 0
+List Camera (VMS): 0
+Create Group: 0
+Update a Group: 0
+Delete a Group: 0
+List Group: 0
+Move Group Members: 0
+Create Group Tag (Sub-Group): 0
+List Group/All tags: 0
+Update Group tag (Sub-Group): 0
+Delete Group Tags: 0
+Update Group Member's Tag (Sub-Group): 0
+List Group Member: 0
+List Group Member's Tag: 0
+Query Setting: 0
+Update Person: 0
+Update Snapshot: 0
+Change Database: 0

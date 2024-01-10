@@ -1,0 +1,18 @@
+coverImage: C://Users//mark//Desktop//same person//Jeffery.png
+name: mark
+personId: 
+employeeId: 
+information: 
+  '{"email":"testt@email.com", 
+  "company":"testt company", 
+  "title":"testt title", 
+  "note":"testt note",
+  "facilityCode":"25",
+  "cardId":"15",
+  "felicaCardId":"11115"}'
+snapshotId: 408
+groupId: 1
+tagId:
+recordId: 
+skipQC: true
+

@@ -1,0 +1,6 @@
+startDate: "2023-12-14T00:00:00"
+endDate: "2023-12-15T00:00:00"
+pageIndex: 
+pageSize:
+orderBy: temperature:asc
+filter: {"cameraId":[], "personId" : [], "groupId" : [], "occlusionType" : [0], "onlyShowHighTemperature" : "True"}
